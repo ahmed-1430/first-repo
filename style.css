@@ -83,7 +83,7 @@ body {
 .profile-card .analytics {
     display: flex;
     align-items: center;
-    margin-top: 22px;
+    margin-top: 25px;
 }
 .analytics .data {
     display: flex;
